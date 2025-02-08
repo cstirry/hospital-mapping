@@ -1,5 +1,5 @@
 project:
-  title: "hospital-mapping"
+  title: "Hospital Mapping"
   type: website
   output-dir: _site
 
@@ -9,3 +9,6 @@ format:
     number-sections: false
     theme: flatly
     css: styles.css
+
+publish:
+  provider: gh-pages

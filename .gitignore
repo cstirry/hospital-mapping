@@ -1,6 +1,7 @@
-__pycache__/
-venv/
+__pycache__
+venv
 .DS_Store
-.ipynb_checkpoints/
-_site/
-.quarto/
+.ipynb_checkpoints
+_site
+.quarto
+.idea
