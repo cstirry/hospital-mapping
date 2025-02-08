@@ -1,0 +1,11 @@
+{
+  "hospital-mapping.qmd": {
+    "hospital-mapping.html": "43ad866e"
+  },
+  "index.qmd": {
+    "index.html": "6bb82ac5"
+  },
+  "notebooks/analysis.ipynb": {
+    "analysis.html": "c53bab06"
+  }
+}

@@ -1,0 +1,11 @@
+project:
+  title: "hospital-mapping"
+  type: website
+  output-dir: _site
+
+format:
+  html:
+    toc: true
+    number-sections: false
+    theme: flatly
+    css: styles.css
